@@ -6,14 +6,14 @@ header:
   overlay_image: images/home-page-feature.jpg
   overlay_filter: 0.5
   caption:
-excerpt: "Complete guides to homebrew and <br /> custom firmware for various devices.<br />"
+excerpt: "Mirrors of complete guides to homebrew and <br /> custom firmware for various devices.<br />"
 feature_row:
   - image_path: /images/home-page-3ds.jpg
     url: "https://funnynnuf.github.io/3d"
     title: "3DS Hacks Guide"
     excerpt: "A complete guide to retail 3DS custom firmware, from stock to boot9strap."
   - image_path: /images/home-page-wiiu.jpg
-    url: "https://wiiu.hacks.guide/"
+    url: "https://funnynnuf.github.io/wiiu/"
     title: "Wii U Hacks Guide"
     excerpt: "A complete guide to Wii U custom firmware, from stock to Tiramisu."
   - image_path: /images/home-page-vita.jpg
