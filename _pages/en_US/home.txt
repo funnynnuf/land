@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "funnynnuf.github.io" #
+title: "mirrormirrorontheweb.github.io" #
 header:
   overlay_color: "#5e616c" #
   overlay_image: images/home-page-feature.jpg
@@ -9,23 +9,23 @@ header:
 excerpt: "Mirrors of complete guides to homebrew and <br /> custom firmware for various devices.<br />"
 feature_row:
   - image_path: /images/home-page-3ds.jpg
-    url: "https://funnynnuf.github.io/3ds"
+    url: "https://mirrormirrorontheweb.github.io/3ds"
     title: "3DS Hacks Guide"
     excerpt: "A complete guide to retail 3DS custom firmware, from stock to boot9strap."
   - image_path: /images/home-page-wiiu.jpg
-    url: "https://funnynnuf.github.io/wiiu/"
+    url: "https://mirrormirrorontheweb.github.io/wiiu/"
     title: "Wii U Hacks Guide"
     excerpt: "A complete guide to Wii U custom firmware, from stock to Tiramisu."
   - image_path: /images/home-page-vita.jpg
-    url: "https://funnynnuf.github.io/vita/"
+    url: "https://mirrormirrorontheweb.github.io/vita/"
     title: "Vita Hacks Guide"
     excerpt: "A complete guide to PS Vita (TV) custom firmware, from stock to HENkaku Ensō."
   - image_path: /images/home-page-wii.jpg
-    url: "https://funnynnuf.github.io/wii/"
+    url: "https://mirrormirrorontheweb.github.io/wii/"
     title: "Wii Hacks Guide"
     excerpt: "The complete guide to modding your Nintendo Wii (and Wii mini)."
   - image_path: /images/home-page-switch.png
-    url: "https://funnynnuf.github.io/switch/"
+    url: "https://mirrormirrorontheweb.github.io/switch/"
     title: "Switch Hacks Guide"
     excerpt: "A complete guide to Switch custom firmware, from stock to Atmosphere."
 ---
