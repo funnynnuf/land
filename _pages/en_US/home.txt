@@ -9,7 +9,7 @@ header:
 excerpt: "Mirrors of complete guides to homebrew and <br /> custom firmware for various devices.<br />"
 feature_row:
   - image_path: /images/home-page-3ds.jpg
-    url: "https://funnynnuf.github.io/3d"
+    url: "https://funnynnuf.github.io/3ds"
     title: "3DS Hacks Guide"
     excerpt: "A complete guide to retail 3DS custom firmware, from stock to boot9strap."
   - image_path: /images/home-page-wiiu.jpg
