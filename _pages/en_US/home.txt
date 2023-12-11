@@ -24,6 +24,10 @@ feature_row:
     url: "https://mirrormirrorontheweb.github.io/wii/"
     title: "Wii Hacks Guide"
     excerpt: "The complete guide to modding your Nintendo Wii (and Wii mini)."
+  - image_path: /images/home-page-wii.jpg
+    url: "https://mirrormirrorontheweb.github.io/wii/"
+    title: "Wii Guide"
+    excerpt: "Another complete guide to modding your Nintendo Wii (and Wii mini)."
   - image_path: /images/home-page-switch.png
     url: "https://mirrormirrorontheweb.github.io/switch/"
     title: "Switch Hacks Guide"
